@@ -14,5 +14,5 @@
 <p align="center">
 <a href="https://linkedin.com/in/umang-metri-8b54b4194"><img src="https://img.shields.io/badge/-Umang%20Metri-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:umangmetri@gmail.com"><img src="https://img.shields.io/badge/-umangmetri@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/umang_2802"><img src="https://img.shields.io/badge/-@umang_2802-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/umang__2802/"><img src="https://img.shields.io/badge/-@umang_2802-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
