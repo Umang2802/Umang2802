@@ -1,8 +1,8 @@
 <div align="center">
 <h2> Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I’m Umang Metri</h2> 
 
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently pursuing BE in Computer 
+ 👀 I’m interested in Cyber Security
+ 🌱 I’m currently pursuing BE in Computer 
 </div>
 
 <h3 align="center"> Github stats</h3>
