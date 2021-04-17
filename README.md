@@ -5,12 +5,10 @@
  🌱 I’m currently pursuing BE in Computer 
 </div>
 
-<div>
+
 <h3 align="center"> Github stats</h3>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Umang2802&show_icons=true&theme=tokyonight" alt="Umang2802" />
-</div>
 
-</div>
 <h3 align="center">🤝🏻 &nbsp;Connect with Me</h3>
 
 <p align="center">
@@ -18,4 +16,3 @@
 <a href="mailto:umangmetri@gmail.com"><img src="https://img.shields.io/badge/-umangmetri@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/umang_2802"><img src="https://img.shields.io/badge/-@umang_2802-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
-</div>
