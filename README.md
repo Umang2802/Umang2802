@@ -9,7 +9,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Umang2802&show_icons=true&theme=tokyonight" alt="Umang2802" />
 
 
-### 🤝🏻 &nbsp;Connect with Me
+<h3 align="center">🤝🏻 &nbsp;Connect with Me</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/umang-metri-8b54b4194"><img src="https://img.shields.io/badge/-Umang%20Metri-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
