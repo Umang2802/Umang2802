@@ -11,8 +11,23 @@
 
 <h3 align="center">🤝🏻 &nbsp;Connect with Me</h3>
 
-<p align="center">
-<a href="https://linkedin.com/in/umang-metri-8b54b4194"><img src="https://img.shields.io/badge/-Umang%20Metri-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:umangmetri@gmail.com"><img src="https://img.shields.io/badge/-umangmetri@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/umang__2802/"><img src="https://img.shields.io/badge/-@umang_2802-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-</p>
+<div align="center">
+<a href="https://discord.gg/UM#7476">
+  <img align="left" alt="Umang's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/@MetriUmang">
+  <img align="left" alt="Umang Metri | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/umang-metri-8b54b4194/">
+  <img align="left" alt="Umang's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/umang__2802/">
+  <img align="left" alt="Umang's instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
+</a>
+<a href="mailto:umangmetri@gmail.com">
+  <img align="left" alt="Umang Metri" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/gmail.svg" />
+</a>
+<a href="https://open.spotify.com/user/by4bze3sawlgsffjfx3gx5c4d">
+  <img align="left" alt="Umang's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+</div> 
