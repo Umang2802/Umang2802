@@ -1,11 +1,11 @@
 <div align="center">
-<h2> Hey, I’m Umang Metri <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>, I’m Umang Metri 
 
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently pursuing BE in Computer 
 </div>
 
-<h3 allign="center"> Github stats</h3>
+<h3 align="center"> Github stats</h3>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Umang2802&show_icons=true&theme=tokyonight" alt="Umang2802" />
 
 
