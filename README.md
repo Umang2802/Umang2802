@@ -1,7 +1,7 @@
 <div align="center">
 <h2> Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I’m Umang Metri</h2> 
 
- 5 🌟 Coder at HackerRank
+ 5 🌟 Coder at HackerRank <br>
  Currently pursuing BE in Computer💻
 </div>
 
