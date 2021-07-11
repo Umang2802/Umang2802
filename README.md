@@ -1,8 +1,8 @@
 <div align="center">
 <h2> Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I’m Umang Metri</h2> 
 
- 👀 Interested in Cyber Security<br>
- 🌱 Currently pursuing BE in Computer 
+ 5 🌟 Coder at HackerRank
+ Currently pursuing BE in Computer💻
 </div>
 
 
