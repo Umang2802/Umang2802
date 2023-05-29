@@ -8,7 +8,8 @@ MERN Stack || Asp.Net<br>
 
 
 <h3 align="center"> Github stats</h3>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Umang2802&show_icons=true&theme=tokyonight" alt="Umang2802" />
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Umang2802&theme=dark&background=000000)](https://git.io/streak-stats) -->
+<p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Umang2802&theme=dark&background=000000" alt="Umang2802" />
 
 <h3 align="center">🤝🏻 &nbsp;Connect with Me</h3>
 
